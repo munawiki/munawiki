@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm muna</h1>
-<h3 align="center">A passionate frontend developer from Seoul/h3>
+<h3 align="center">A passionate frontend developer from Seoul </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munawiki&label=Profile%20views&color=0e75b6&style=flat" alt="munawiki" /> </p>
 
