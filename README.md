@@ -1,1 +1,1 @@
-<img src="github-metrics.svg" alt="muna-profile"/>
+![Metrics](./github-metrics.svg)
