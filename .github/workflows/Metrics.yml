@@ -66,7 +66,7 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: https://blog.munawiki.dev
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
